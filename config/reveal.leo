@@ -19,12 +19,12 @@
 <v t="leo.20220314205802.5"><vh>reveal div</vh>
 <v t="leo.20220314205802.6"><vh>slides div</vh>
 <v t="leo.20220314205802.7"><vh>slide 1</vh></v>
-<v t="leo.20220314205802.8"><vh>slide 2</vh></v>
 <v t="leo.20220314205802.9"><vh>slide3</vh>
 <v t="leo.20220314205802.10"><vh>slide 3-1</vh></v>
 <v t="leo.20220314205802.11"><vh>slide 3-2</vh></v>
 <v t="leo.20220314205802.12"><vh>slide 3-3</vh></v>
 </v>
+<v t="leo.20220314205802.8"><vh>slide 2</vh></v>
 <v t="leo.20220314205802.13"><vh>slide 4</vh></v>
 <v t="leo.20220314205802.14"><vh>slide 5 </vh></v>
 <v t="leo.20220314205802.15"><vh>slide 6</vh></v>
@@ -176,9 +176,9 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20220314205802.13">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;W8心得&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        這次我使用onshape繪製，起初還覺得不怎麼好用，使用一段時間後，慢慢發現onshape其實很好用欸，雖然onshape的3D比不過solidworks，但我覺得工程圖比 solidworks好用蠻多的，缺點就是onshape是網頁版的，畫一段時間就要刷新頁面。&lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -627,17 +627,22 @@ console.log( '"customevent" has fired' );
     &lt;a href="https://revealjs.com"&gt;
         &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h3&gt;40923120_midterm&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;網站路徑 &lt;a href="https://40923123.github.io/cd2022//content/index.html"&gt;cd2022&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314205802.8">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;MIDTERM&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+        這禮拜第8周，這禮拜主要的是進行如下
+        1.使用Onshape標註零件尺寸
+        2.製作wink影片
+        3.編輯reveal.leo以及blog
+        
+        我的目標是標註完尺寸，幫助其他人繪製零件，在製作wink影片，然後再編輯blog，編輯reveal.leo是後來才發現是每個人都要製作的。
     &lt;/p&gt;
 &lt;/section&gt;
 
