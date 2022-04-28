@@ -114,7 +114,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220314205802.13">&lt;section&gt;
     &lt;h2&gt;W8心得&lt;/h2&gt;
     &lt;p&gt;
-        這次我使用onshape繪製，起初還覺得不怎麼好用，使用一段時間後，慢慢發現onshape其實很好用欸，雖然onshape的3D比不過solidworks，但我覺得工程圖比 solidworks好用蠻多的，缺點就是onshape是網頁版的，畫一段時間就要刷新頁面。&lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        這次我使用onshape繪製，起初還覺得不怎麼好用，使用一段時間後，慢慢發現onshape其實很好用欸，雖然onshape的3D比不過solidworks，但我覺得工程圖比 solidworks好用蠻多的，缺點就是onshape是網頁版的，畫一段時間就要刷新頁面。
     &lt;/p&gt;
 &lt;/section&gt;
 
