@@ -180,7 +180,7 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;40923120_midterm&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;網站路徑 &lt;a href="https://40923123.github.io/cd2022//content/index.html"&gt;cd2022&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;網站路徑 &lt;a href="https://40923120.github.io/cd2022//content/index.html"&gt;cd2022&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
